@@ -1,5 +1,5 @@
 # stopwatch
-A simple stopwatch to count how many seconds have passed.
+A simple stopwatch to count approximately how many seconds have passed.
 
 Try it out here:
-https://github.com/katsup07/stopwatch/deployments/activity_log?environment=github-pages
+https://katsup07.github.io/stopwatch/
